@@ -15,6 +15,6 @@ This research investigates how large language models capture discourse structure
 # Quick Start
 ## Installation
 ```bash
-git clone https://github.com/your-username/Probing-Discourse-Structure-in-Dialogue.git
+git clone https://github.com/Shuaiqidewo12345/Probing-Discourse-Structure-in-Dialogue.git
 cd Probing-Discourse-Structure-in-Dialogue
 pip install -r requirements.txt
